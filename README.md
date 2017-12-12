@@ -4,7 +4,7 @@ This is the the version of the porn website https://nxxporn.com coded in ASP.Net
 > https://nxxporn.com
 
 ## Some screenshots of NxxPorn v3
-### Member section with a lot of new features
+### Member section with a lots of new features
 ![Logo](/1.png)
 ![Logo](/3.png)
 ![Logo](/2.png)
